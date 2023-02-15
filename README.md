@@ -2,7 +2,7 @@
 
 ## *Contenido* 📝
 
-En este repositorio encontramos una serie de ejercicios realizados en MySQL entre los cuales encontramos los siguientes:
+En este repositorio encontramos una serie de ejercicios realizados en MySQL entre los cuales podemos distinguir los siguientes:
 
 - Creación de una BBDD de una tienda de zapatillas.
 - Creación de las tablas.
